@@ -10,14 +10,11 @@ What do you need?
 Of course the Logitechmediaserver a PC with linux (tested and made for Debian/Ubuntu) and a smartphone/Tablet and some tools.
 
 sqlite3:     the commandlineinterpreter to the sql database used by Logitechmediaserver.
-wget:        software package for retrieving files using HTTP it should be already in your Distro.
 wkhtmltopdf: the tool that converts our html files to pdf (X Server required)
 Ghostscript: No other tool combines a bunch of pdf into a single file - onboard on most Distros.
 
 What do you get?
-A collection of html or pdf files with all your Albumcovers followed by the Album Artist and the Albumname.
-
-If you have a Linux with X-Server you can convert these html files to pdf.
+A pdf file with all your Albumcovers followed by the Album Artist and the Albumname.
 
 Have Fun
 
